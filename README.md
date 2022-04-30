@@ -10,16 +10,16 @@ Check out Mozilla's docs for each here:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 About<br>
-Hello! I am the creator of School Heaven, It is a website with games, music, anime, and more!  School Heaven website is still under development and I will have more things and features. If you want to suggest something e-mail ilyas.nekrasov@gmail.com or use the suggest channel.
+Hello! I am the creator of Obvious. Unblocker, It is a website with games, music, anime, and more! Obvious Unblocker website is still under development and I will have more things and features. I will not take respsibility for any trouble you get into so please be careful. Other then that enjoy.
 <br><br>
 My Socials<br>
-Discord: Blazer#1692<br>
-Replit: https://replit.com/@IlyaNekrasov<br>
-Github: https://github.com/BlaizerBrumo<br>
-TikTok: https://www.tiktok.com/@gamingboi222<br>
+Discord: Obvious Plays#7685<br>
+Replit: https://replit.com/@ObviousPlays<br>
+Github: https://github.com/ObviousPlays<br>
+Website: https://obviousplays.tk<br>
 <br>
-Access School Heaven:<br>
-https://65ef1c09-3731-440c-888c-126b64e87894.id.repl.co/<br>
+Access ObviousUnblocker br>
+https://obviousunblocker.gq<br>
 or<br>
-https://schoolheaven.ilyanekrasov.repl.co/<br>
+https://Obvious-Unblocker.obviousplays.repl.co<br>
  
