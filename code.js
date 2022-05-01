@@ -17,6 +17,6 @@ function settitle(title) {
 }
 
 function setdefault() {
-  settitle("School Heaven")
+  settitle("Obvious Unblockser")
 }
 
