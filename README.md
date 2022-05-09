@@ -10,7 +10,7 @@ Check out Mozilla's docs for each here:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 About<br>
-Hello! I am the creator of Obvious. Unblocker, It is a website with games, music, anime, and more! Obvious Unblocker website is still under development and I will have more things and features. I will not take respsibility for any trouble you get into so please be careful. Other then that enjoy.
+Hello! I am the creator of Obvious. Unblocker, It is a website with games, music, anime, and more! Obvious Unblocker website is still under development and I will have more things and features. I will not take respsibility for any trouble you get into so please be careful. Other then that enjoy. Also thank you to all. the people who I barrowed code from. I am not making any money using this code and if you want a shoutout or want to change anything just let me know and I will be more then happy to fix any problems.
 <br><br>
 My Socials<br>
 Discord: Obvious Plays#7685<br>
