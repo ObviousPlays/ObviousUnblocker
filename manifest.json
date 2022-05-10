@@ -1,0 +1,29 @@
+{
+  "name": "Obvious Unblocker",
+  "display": "fullscreen",
+  "start_url": "/",
+  "short_name": "Unblocker",
+  "theme_color": "#6a1b9a",
+  "description": "The obvious unblocker app",
+  "orientation": "portrait",
+  "background_color": "#6a1b9a",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "640x640",
+      "type": "image/png",
+      "purpose": "maskable"     
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "fast",
+    "simple"
+  ]
+}
